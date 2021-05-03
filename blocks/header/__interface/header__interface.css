@@ -1,4 +1,4 @@
-.header {
+.header__interface {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
