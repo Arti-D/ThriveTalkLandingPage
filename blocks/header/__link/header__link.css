@@ -3,4 +3,11 @@
   line-height: 1.1;
   color: #22356f;
   text-decoration: none;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+
+
+.header__link:hover {
+  border-bottom: 1px solid #22356f;
 }
