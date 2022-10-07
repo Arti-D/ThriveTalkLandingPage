@@ -1,0 +1,18 @@
+.intro__link {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.4;
+    letter-spacing: 0.1em;
+    color: #FAB63E;
+    padding: 10px 30px;
+}
+
+.intro__link:hover {
+    color: #FFFFFF;
+    background-color: #FAB63E;
+}
+
+.intro__link:first-child {
+    margin-right: 40px;
+}
