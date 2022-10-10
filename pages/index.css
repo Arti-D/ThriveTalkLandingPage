@@ -19,3 +19,6 @@
 @import url('../blocks/why/__text-content/why__text-content.css');
 @import url('../blocks/why/__img/why__img.css');
 @import url('../blocks/why/__header/why__header.css');
+@import url('../blocks/about/about.css');
+@import url('../blocks/about/__header/about__header.css');
+@import url('../blocks/about/__text/about__text.css');
