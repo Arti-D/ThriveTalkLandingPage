@@ -3,11 +3,15 @@
     list-style-position: inside;
     color: white;
     font-size: 32px;
-    padding: 0 0 0 54px;
+    position: relative;
+    padding-top: 100%;
+    list-style: none;
 }
 
-.help__item::marker {
-    color: #E9B730;
+.help__item::before {
+    display: block;
+    content: "";
+    width: 100%;
 }
 
 .help__item_blue {

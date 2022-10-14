@@ -24,6 +24,7 @@
 @import url('../blocks/about/__text/about__text.css');
 @import url('../blocks/help/help.css');
 @import url('../blocks/help/__item/help__item.css');
-@import url('../blocks/help/__line/help__line.css');
 @import url('../blocks/help/__list/help__list.css');
 @import url('../blocks/help/__with/help__with.css');
+@import url('../blocks/help/__marker/help__marker.css');
+@import url('../blocks/help/__text/help__text.css');

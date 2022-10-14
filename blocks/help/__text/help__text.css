@@ -1,0 +1,13 @@
+.help__text {
+    position: absolute;
+    top: 0;
+    left: 14.6%;
+    right: 14.6%;
+    bottom: 0;
+    border-top: solid 1px white;
+    line-height: 3;
+    margin-top: 20%;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
