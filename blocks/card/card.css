@@ -1,0 +1,30 @@
+.card {
+    padding: 0;
+    position: relative;
+    padding-top: 100%;
+    list-style: none;
+}
+
+.card::before {
+    display: block;
+    content: "";
+    width: 100%;
+}
+
+.card::after {
+    display: block;
+    content: "";
+    width: 70.8%;
+    right: 14.6%;
+    border-top: solid 1px white;
+    position: absolute;
+    top: 15%;
+}
+
+.card_blue {
+    background-color: #62D0DF;
+}
+
+.card_rose {
+    background-color: #FFE2DE;
+}
