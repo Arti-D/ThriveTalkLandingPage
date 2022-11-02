@@ -40,3 +40,10 @@
 @import url('../blocks/should/__main-text/should__main-text.css');
 @import url('../blocks/should/__wrap/should__wrap.css');
 @import url('../blocks/should/__text/should__text.css');
+@import url('../blocks/contact/contact.css');
+@import url('../blocks/contact/__header/contact__header.css');
+@import url('../blocks/contact/__image/contact__image.css');
+@import url('../blocks/contact/__link/contact__link.css');
+@import url('../blocks/contact/__main-text/contact__main-text.css');
+@import url('../blocks/contact/__text/contact__text.css');
+@import url('../blocks/contact/__wrap/contact__wrap.css');
