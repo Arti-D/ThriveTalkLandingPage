@@ -1,0 +1,6 @@
+.footer__info {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    align-items: center;
+}

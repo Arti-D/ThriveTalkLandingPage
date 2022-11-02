@@ -1,0 +1,5 @@
+.footer__wrap {
+    display: flex;
+    background-color: #fff;
+    justify-content: baseline;
+}
