@@ -1,0 +1,12 @@
+.should__link {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.4;
+    letter-spacing: 0.1em;
+    color: #FAB63E;
+}
+
+.should__link:hover {
+    border-bottom: 2px solid #FAB63E;
+}

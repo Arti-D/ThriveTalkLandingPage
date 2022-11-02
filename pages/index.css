@@ -35,3 +35,8 @@
 @import url('../blocks/description/__item/description__item.css');
 @import url('../blocks/description/__list/description__list.css');
 @import url('../blocks/description/__text/description__text.css');
+@import url('../blocks/should/sould.css');
+@import url('../blocks/should/__link/should__link.css');
+@import url('../blocks/should/__main-text/should__main-text.css');
+@import url('../blocks/should/__wrap/should__wrap.css');
+@import url('../blocks/should/__text/should__text.css');
